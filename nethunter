@@ -1,9 +1,0 @@
-apt update 
-apt upgrade 
-echo "installing wget ..........."
-apt install wget -y
-termux-setup-storage
-termux-setup-storage -y
-wget -O nh https://offs.ec/2MceZWr
-chmod +x nh
-./nh
